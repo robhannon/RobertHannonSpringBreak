@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpringBreak</string>
+    <string name="speak_now">Speak Now</string>
+    <string name="speech_not_supported">Speech Not Supported</string>
+    <string name="pick">Pick a language</string>
+    <string name="install">Install Maps</string>
+</resources>
